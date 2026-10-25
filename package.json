@@ -1,0 +1,28 @@
+{
+  "name": "antimcbot",
+  "version": "1.0.0",
+  "description": "Anti-bot add-on for MCBE using the Script API",
+  "keywords": [
+    "minecraft",
+    "mcbe",
+    "bot",
+    "script",
+    "javascript",
+    "typescript"
+  ],
+  "homepage": "https://github.com/StarAwA117/AntiMCBot#readme",
+  "bugs": {
+    "url": "https://github.com/StarAwA117/AntiMCBot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarAwA117/AntiMCBot.git"
+  },
+  "license": "MIT",
+  "author": "StarAwA117",
+  "type": "module",
+  "dependencies": {
+    "@minecraft/server": "^2.11.0-beta.1.26.52-stable",
+    "@minecraft/server-ui": "^2.3.0-beta.1.26.52-stable"
+  }
+}
